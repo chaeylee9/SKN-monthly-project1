@@ -20,6 +20,9 @@ SKN 16기 1차 단위프로젝트
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
+# 📄 ERD
+![ERD](image/erd.png)
+
 # 📄 화면 설계서
 <br>
 
