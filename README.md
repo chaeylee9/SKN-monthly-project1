@@ -11,7 +11,6 @@ SKN 16기 1차 단위프로젝트
 
 
 # 🛠 기술 스택
-<br>
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 - ![Altair](https://img.shields.io/badge/Altair-1E1E1E?logo=chartdotjs&logoColor=white)
