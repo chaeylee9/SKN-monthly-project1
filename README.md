@@ -101,9 +101,9 @@ SKN 16기 1차 단위프로젝트
 
 
 # 💻 실제 화면
-### 시군구별 자동차 등록대수 단계구분도 / 연령대별 등록 분포 / 시계열 차트 시각화
-지역, 차종, 년월 선택 가능
-DB 연동을 통해 조건에 맞는 데이터 추출하여 시각화
+### 1. 시군구별 자동차 등록대수 단계구분도 / 연령대별 등록 분포 / 시계열 차트 시각화
+- 지역, 차종, 년월 선택 가능
+- DB 연동을 통해 조건에 맞는 데이터 추출하여 시각화
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1305e6ac-7b4d-4678-b367-f6e0273aab1f" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/777d671f-a963-425d-974e-b1b9baf4f1dd" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4fa0bcd0-c2cf-4847-b983-1eccf352f8be" />
@@ -111,10 +111,10 @@ DB 연동을 통해 조건에 맞는 데이터 추출하여 시각화
 
 
 
-### 기업별 자동차 FAQ 안내 및 검색 기능 구현
-현대자동차, 제네시스, 기아자동차 홈페이지의 FAQ 크롤링
-카테고리로 구분하여 질문과 답변 표시
-키워드로 검색하여 관련 질문과 답변을 회사별로 나타내는 기능 구현
+### 2. 기업별 자동차 FAQ 안내 및 검색 기능 구현
+- 현대자동차, 제네시스, 기아자동차 홈페이지의 FAQ 크롤링
+- 카테고리로 구분하여 질문과 답변 표시
+- 키워드로 검색하여 관련 질문과 답변을 회사별로 나타내는 기능 구현
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5bc92435-44fd-424f-be15-4e9bfe265384" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1ed5e5e2-f511-4afc-bc04-cbf177f3d8b9" />
 
