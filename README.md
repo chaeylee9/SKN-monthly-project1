@@ -109,7 +109,7 @@ SKN 16기 1차 단위프로젝트
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4fa0bcd0-c2cf-4847-b983-1eccf352f8be" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/65df1b6e-4742-4374-9d0e-30460c667e45" />
 
-
+---
 
 ### 2. 기업별 자동차 FAQ 안내 및 검색 기능 구현
 - 현대자동차, 제네시스, 기아자동차 홈페이지의 FAQ 크롤링
