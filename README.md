@@ -27,7 +27,7 @@ SKN 16기 1차 단위프로젝트
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
-# 📄 ERD
+# 📄 데이터베이스 설계 문서
 ![ERD](image/erd.png)
 
 
@@ -100,7 +100,7 @@ SKN 16기 1차 단위프로젝트
 <br>
 
 
-# 💻 실제 화면
+# 💻 데이터조회 프로그램
 ### 1. 시군구별 자동차 등록대수 단계구분도 / 연령대별 등록 분포 / 시계열 차트 시각화
 - 지역, 차종, 년월 선택 가능
 - DB 연동을 통해 조건에 맞는 데이터 추출하여 시각화
