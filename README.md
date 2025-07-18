@@ -3,11 +3,13 @@ SKN 16기 1차 단위프로젝트
 
 <br>
 
-# 📌 프로젝트 소개
+## 📌 프로젝트 소개
 전국 <strong>자동차의 등록 현황</strong>을 시각적으로 분석하고<br>
 기아,현대,제네시스의 <strong>FAQ을 streamlit을 통해 제공</strong>하는 시스템 구현
 
-# 🫂 팀 소개
+<br>
+
+## 🧙🏻‍♂️ 팀 소개
 | 이름        | 역할 |
 |-------------|------|
 | 조장_이광식 | 데이터베이스 구축 담당, 전체적인 방향성 설계 |
@@ -17,8 +19,9 @@ SKN 16기 1차 단위프로젝트
 | 조원_김혜린 | 현대자동차 FAQ 크롤링 및 처리 |
 | 조원_김민정 | 기아자동차 FAQ 크롤링 및 처리 |
 
+<br>
 
-# 🛠 기술 스택
+## 🛠 기술 스택
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -26,15 +29,17 @@ SKN 16기 1차 단위프로젝트
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+<br>
 
-# 📄 데이터베이스 설계 문서
+## 📄 데이터베이스 설계 문서
 ![ERD](image/erd.png)
 
+<br>
 
-# 🔍 수집 데이터
+## 🔍 수집 데이터
 본 프로젝트는 **대한민국 자동차 등록 현황과 자동차 브랜드별 FAQ 안내 시스템 구축**을 목표로, 다음과 같은 데이터를 수집하여 분석 및 시각화에 활용하였습니다.
 
----
+
 
 ### 1. 📊 월별 자동차 등록 현황 통계  
 - **출처**: [국토교통부 통계누리](https://stat.molit.go.kr/)
@@ -100,7 +105,7 @@ SKN 16기 1차 단위프로젝트
 <br>
 
 
-# 💻 데이터조회 프로그램
+## 💻 데이터조회 프로그램
 ### 1. 시군구별 자동차 등록대수 단계구분도 / 연령대별 등록 분포 / 시계열 차트 시각화
 - 지역, 차종, 년월 선택 가능
 - DB 연동을 통해 조건에 맞는 데이터 추출하여 시각화
