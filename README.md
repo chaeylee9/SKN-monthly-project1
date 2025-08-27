@@ -1,4 +1,4 @@
-# SKN16-1st-2Team
+# SKN16-1st-Monthly-Project
 SKN 16기 1차 단위 프로젝트
 
 <br>
